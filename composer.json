@@ -1,0 +1,15 @@
+{
+    "name": "admin/tos-task",
+    "authors": [
+        {
+            "name": "Val Roboben",
+            "email": "valroboben@yandex.ru"
+        }
+    ],
+    "require": {
+        "ramsey/uuid": "^4.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
